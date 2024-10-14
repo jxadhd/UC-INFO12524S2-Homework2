@@ -1,0 +1,7 @@
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Homework 2\Release\jcr168-Homework2.pdb
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Homework 2\Release\D3DCompiler_47_cor3.dll
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Homework 2\Release\PenImc_cor3.dll
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Homework 2\Release\PresentationNative_cor3.dll
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Homework 2\Release\vcruntime140_cor3.dll
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Homework 2\Release\wpfgfx_cor3.dll
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Homework 2\Release\jcr168-Homework2.exe

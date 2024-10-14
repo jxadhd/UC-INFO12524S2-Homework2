@@ -1,0 +1,66 @@
+01,16,10,1549,04-AUG-2025,Gallic Getaway
+02,16,12,1849,16-AUG-2025,Splendours of the Mediterranean
+03,16,23,5539,29-AUG-2025,Panama Canal
+04,16,14,1899,23-SEP-2025,Atlantic Isles Adventure
+05,16,12,1849,16-OCT-2025,Mediterranean
+06,16,14,1950,29-OCT-2025,Spirit of the Caribbean
+07,16,15,3226,19-NOV-2025,Simply Caribbean
+08,16,39,7679,19-DEC-2025,Spirit of the Caribbean
+09,16,13,3037,20-JAN-2025,Spirit of the Caribbean
+10,16,15,4229,03-FEB-2025,Caribbean Classics
+11,16,12,2253,06-MAR-2025,Iberia and the Canaries
+12,16,24,5885,25-MAR-2025,South America and Antartic Explorer
+13,15,16,4223,14-JUN-2025,Maiden Mediterranean Cruise
+14,15,07,2679,10-JUL-2025,Maiden Cruise Break
+15,15,13,3129,22-JUL-2025,The Maiden Atlantic Isles Cruise
+16,15,13,3349,10-AUG-2025,The Maiden Baltic Cruise
+17,15,04,1199,29-AUG-2025,The long weekend
+18,15,14,3349,07-SEP-2025,Top of the World Cruise
+19,15,17,4599,21-OCT-2025,Jewels of the Adriatic
+20,15,03,1219,28-NOV-2025,The weekender
+21,15,13,5319,11-DEC-2025,Mediterranean Magic
+22,13,04,2170,09-SEP-2025,Party nights
+23,13,12,4099,10-OCT-2025,Canaries cocktail
+24,13,13,5128,22-OCT-2025,Heart Of The Mediterranean
+25,13,09,3875,07-NOV-2025,Canaries Hightlights
+26,13,18,5999,16-NOV-2025,Ancient Wonders
+27,13,03,2225,04-DEC-2025,The weekender
+28,13,22,7599,18-DEC-2025,Caribbean Voyage
+29,13,03,2199,22-APR-2025,The Weekender
+30,17,16,6374,06-SEP-2025,Truly Mediterranean
+31,17,17,7549,22-SEP-2025,Iberian Sojourn
+32,17,11,4173,09-OCT-2025,The Oceana Party
+33,17,14,5934,30-OCT-2025,A Taste of the Tropics
+34,17,15,5367,12-NOV-2025,Calypso Isles
+35,17,15,4989,26-NOV-2025,Caribbean Gold
+36,17,14,7044,10-DEC-2025,Caribbean Connection
+37,17,20,9198,07-JAN-2025,Calypso Isles
+38,17,15,5264,21-JAN-2025,Caribbean Gold
+39,17,13,3599,18-FEB-2025,Calypso Isles
+40,17,15,4249,18-FEB-2025,Caribbean Connection
+41,20,12,4999,02-JUL-2025,The Dolce Vita Cruise
+42,20,07,2999,22-JUL-2025,Inspiring Iberia
+43,20,22,7999,30-JUL-2025,Colours Of The Caribbean
+44,20,16,5969,22-AUG-2025,Indian Summer Cruise
+45,20,18,5599,16-SEP-2025,Ancient Glories
+46,20,22,7599,24-OCT-2025,Colours Of The Caribbean
+47,20,11,5099,16-NOV-2025,Canaries Capers
+48,20,11,7000,29-NOV-2025,New Years Spectacular
+49,20,41,9999,17-DEC-2025,The Oriana World Cruise
+50,20,33,8999,07-FEB-2025,Southampton To Sydney
+51,20,30,8599,22-MAR-2025,Brisbane To Southampton
+52,20,18,4999,22-APR-2025,Southampton To San Francisco
+53,18,12,3999,15-JUL-2025,Alaskan Memories
+54,18,10,4855,18-AUG-2025,Pacific Fiesta
+55,18,16,5590,08-SEP-2025,A tale of two seas
+56,18,11,3999,14-OCT-2025,Caribbean Sunsets
+57,23,10,3999,04-OCT-2025,Western Caribbean Adventurer
+58,23,10,3999,09-JAN-2025,Western Caribbean Adventurer
+59,23,10,3999,18-FEB-2025,Western Caribbean Adventurer
+60,23,10,3999,30-MAR-2025,Western Caribbean Adventurer
+61,23,10,3999,19-APR-2025,Western Caribbean Adventurer
+62,23,10,4299,14-OCT-2025,Southern Caribbean Medley
+63,23,10,4299,23-NOV-2025,Southern Caribbean Medley
+64,23,10,4299,13-DEC-2025,Southern Caribbean Medley
+65,23,10,4299,30-DEC-2025,Southern Caribbean Medley
+66,23,10,4299,08-FEB-2025,Southern Caribbean Medley

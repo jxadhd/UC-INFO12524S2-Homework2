@@ -1,0 +1,5 @@
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Homework 2\jcr168-Homework2.exe
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Homework 2\jcr168-Homework2.dll
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Homework 2\jcr168-Homework2.deps.json
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Homework 2\jcr168-Homework2.runtimeconfig.json
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Homework 2\jcr168-Homework2.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HZOov3OQ4xhsZZ/p5MOvZ8tNTiUkK1C1P48IKFembi18kSy33DqA+Sf4jX5+hUAV9x7sF96hOfdHiyrkdmrkMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jcr168\\OneDrive - University of Canterbury\\UC\\2024\\INFO125\\Homework 2\\jcr168-Homework2\\jcr168-Homework2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jcr168\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.2\\microsoft.netcore.app.runtime.win-x86.6.0.2.nupkg.sha512",
+    "C:\\Users\\jcr168\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.2\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.2.nupkg.sha512",
+    "C:\\Users\\jcr168\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.2\\microsoft.aspnetcore.app.runtime.win-x86.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
