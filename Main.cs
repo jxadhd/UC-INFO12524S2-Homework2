@@ -20,10 +20,11 @@ namespace jcr168_Homework2
 {
     public partial class Main : Form
     {
-        // Create a list of object type Cruise to store cruise details
+        // Create a global list variable of object type Cruise to store cruise details
         private readonly List<Cruise> cruises = new();
-        //string FilePath = "";
-        string? SelectedShip;
+
+        // Initialise a couple strings as global variables
+        private string? SelectedShip;
         string? Ship;
 
         public Main()
